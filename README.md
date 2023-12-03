@@ -30,3 +30,4 @@
 ## References:
 
 - [Morphology](https://pyimagesearch.com/2021/04/28/opencv-morphological-operations/)
+- [Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
